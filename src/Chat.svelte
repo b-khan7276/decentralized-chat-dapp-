@@ -44,7 +44,7 @@
       .once(async (data, id) => {
         if (data) {
           // Key for end-to-end encryption
-          const key = '#foo';
+          const key = '!@#$%^&*(ACKhsdidfdfsdohfaosehadf)';
 
           var message = {
             // transform the data
